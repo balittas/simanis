@@ -47,7 +47,7 @@
 	<br>
 	<footer>
 		<div style="color:white;" class="text-center">
-			<p style="font-family: calibri"><span class="glyphicon glyphicon-copyright-mark"></span> 2018 All Reserved Design By BALITTAS</p>
+			<p style="font-family: calibri"><span class="glyphicon glyphicon-copyright-mark"></span> 2023 All Reserved Design By BSIP-TAS</p>
 		</div>
 	</footer>			
 </html>

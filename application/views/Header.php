@@ -4,7 +4,7 @@
 		<title>Database Tanaman Serat</title>
 		<meta charset="utf-8">
 		<!-- <link href="gambar/logo.png" rel="shortcut icon"> -->
-		<meta name="description" content="Balittas - Sistem Informasi Tanaman Serat">
+		<meta name="description" content="BSIP-TAS - Sistem Informasi Tanaman Serat">
 		<meta name="author" content="Gusna Ikhsan">
 		<!-- <link rel="stylesheet" href="webdesa.css"> -->
 		<link rel="stylesheet" href="<?php echo base_url() ?>bootstrap/css/bootstrap.css">
@@ -84,7 +84,7 @@
 								  			<div class="col-sm-12 col-lg-12">
 								  				<a href="<?php echo site_url('produk/varietas') ?>" style="margin-top: 10px;">Varietas</a>	
 								  				<hr style="margin: 4px 0px 5px 0px; border-color: rgba(28,69,26,1);">
-												  <a href="http://balittas.or.id/upbs-stok/" style="margin-top: 10px;">Benih Sumber</a>	
+												  <a href="http://upbs-stok.bsiptas.id/" style="margin-top: 10px;">Benih Sumber</a>	
 								  				<hr style="margin: 4px 0px 5px 0px; border-color: rgba(28,69,26,1);">
 								  				<a href="<?php echo site_url('produk/alsin') ?>">Alat dan Mesin</a>
 							          			<hr style="margin: 4px 0px 5px 0px; border-color: rgba(28,69,26,1);">

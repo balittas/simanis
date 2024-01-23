@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
    <head>
-      <title>Balittas</title>
+      <title>BSIP-TAS</title>
       <meta charset="utf-8">
       <meta name="description" content="A Tuts+ course">
       <meta name="author" content="DenleiDR">

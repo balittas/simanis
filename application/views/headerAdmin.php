@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>	
-		<title>Admin - Balai Penelitian Tanaman Pemanis dan Serat</title>
+		<title>Admin - Balai Pengujian Standar Instrumen Tanaman Pemanis dan Serat</title>
 		<meta charset="utf-8">
 		<!-- <link href="gambar/logo.png" rel="shortcut icon"> -->
 		<meta name="description" content="A Tuts+ course">

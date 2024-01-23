@@ -345,7 +345,7 @@
         </div>
 
         <div class="col-lg-6">
-        <a href="http://balittas.litbang.pertanian.go.id/aplikasi/upbs-stok/">
+        <a href="http://upbs-stok.bsiptas.id/">
           <div class="align-center">
             <div class="wow bounceIn">
 
@@ -468,11 +468,7 @@
               </tr>
               <tr>
                 <td class="fa fa-envelope">&nbsp</td>
-                <td>balittas@litbang.pertanian.go.id</td>
-              </tr>
-              <tr>
-                <td class="fa fa-envelope">&nbsp</td>
-                <td>balittas.malang@gmail.com</td>
+                <td>bsip.tanamanpemanis@pertanian.go.id</td>
               </tr>
               <tr>
                 <td class="fa fa-phone">&nbsp</td>
@@ -549,7 +545,7 @@
             <hr style="margin-top: 0px; margin-bottom: 13px; border-color: #fece00;">
             <div class="row" style="margin: 2px; margin-left: -3px;">
               <div class="col-xs-3 col-sm-3 col-lg-3 sosmed no-touch" ">
-									<a href=" https://web.facebook.com/balittas.malang" target="blank"><i class="fa fa-facebook-square" aria-hidden="true" style="font-size:45px;"></i>
+									<a href=" https://web.facebook.com/bsip.pemanis" target="blank"><i class="fa fa-facebook-square" aria-hidden="true" style="font-size:45px;"></i>
                 <!-- <img src="item img/fbb.png" class="icon-sosmed img-rounded" alt="Cinque Terre" width="50" height="50"> -->
                 </a>
               </div>
@@ -559,12 +555,12 @@
                 </a>
               </div>
               <div class="col-xs-3 col-sm-3 col-lg-3 sosmed no-touch">
-                <a href="https://www.youtube.com/channel/UCiYhtpYmb_SWaIJMarhejag/featured" target="blank">
+                <a href="https://www.youtube.com/@bsip.pemanis" target="blank">
                   <i class="fa fa-youtube-square" aria-hidden="true" style="font-size:45px;"></i>
                 </a>
               </div>
               <div class="col-xs-3 col-sm-3 col-lg-3 sosmed no-touch" style="margin-top: -3px;">
-                <a href="https://www.instagram.com/balittas_malang/" target="blank">
+                <a href="https://www.instagram.com/bsip.pemanis/" target="blank">
                   <i class="fa fa-instagram" aria-hidden="true" style="font-size:45px;"></i>
                 </a>
               </div>
@@ -605,7 +601,7 @@
     </div>
     <div class="container-fluid text-center" style="color:white;background-color: black;">
       <div style=" margin-top: 10px;">
-        <p style="font-family: calibri">2020 All Reserved Design By BALITTAS</p>
+        <p style="font-family: calibri">2023 All Reserved Design By BSIP-TAS</p>
       </div>
     </div>
   </footer>

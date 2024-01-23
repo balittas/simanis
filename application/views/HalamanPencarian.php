@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<title>Balittas</title>
+		<title>BSIP-TAS</title>
 		<meta charset="utf-8">		
-		<meta name="description" content="Balittas - Sistem Informasi Tanaman Pemanis">
+		<meta name="description" content="BSIP-TAS - Sistem Informasi Tanaman Pemanis">
 		<meta name="author" content="Gusna Ikhsan">		
 		<link rel="stylesheet" href="<?php echo base_url() ?>bootstrap/css/bootstrap.css">
 		<link rel="stylesheet" href="<?php echo base_url() ?>bootstrap/css/balittas.css">
@@ -250,8 +250,8 @@
 			});
 
 			function gambarLeaflet(value1, value2, nama1, nama2) {
-				document.getElementsByClassName('imgLeaflet')[0].src = "http://balittas.or.id/siserat/item_img/leafletgabungan/" + value1;
-				document.getElementsByClassName('imgLeaflet')[1].src = "http://balittas.or.id/siserat/item_img/leafletgabungan/" + value2;
+				document.getElementsByClassName('imgLeaflet')[0].src = "http://bsiptas.id/siserat/item_img/leafletgabungan/" + value1;
+				document.getElementsByClassName('imgLeaflet')[1].src = "http://bsiptas.id/siserat/item_img/leafletgabungan/" + value2;
 				document.getElementsByClassName('imgLeaflet')[0].alt = nama1;
 				document.getElementsByClassName('imgLeaflet')[1].alt = nama2;
 

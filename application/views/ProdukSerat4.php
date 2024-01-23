@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<title>Balittas</title>
+		<title>BSIP-TAS</title>
 		<meta charset="utf-8">		
 		<meta name="description" content="A Tuts+ course">
 		<meta name="author" content="Gusna Ikhsan">		
@@ -292,11 +292,7 @@
 								</tr>
 								<tr>
 									<td class="glyphicon glyphicon-envelope">&nbsp</td>
-									<td>balittas@litbang.pertanian.go.id</td>
-								</tr>
-								<tr>
-									<td class="glyphicon glyphicon-envelope">&nbsp</td>
-									<td>balittas.malang@gmail.com</td>
+									<td>bsip.tanamanpemanis@pertanian.go.id</td>
 								</tr>
 								<tr>
 									<td class="glyphicon glyphicon-earphone">&nbsp</td>
@@ -325,19 +321,19 @@
 									<a href="">
 										<tr class="headerHover">
 											<td class="glyphicon glyphicon-ok">&nbsp</td>
-											<td style="padding-top: 3px;">Badan Litbang Pertanian</td>
+											<td style="padding-top: 3px;">Badan Standardisasi Instrumen Pertanian</td>
 										</tr>
 									</a>
 									<a href="">
 										<tr class="headerHover">
 											<td class="glyphicon glyphicon-ok">&nbsp</td>
-											<td style="padding-top: 3px;">UPT Badan Litbang Pertanian</td>
+											<td style="padding-top: 3px;">UPT Badan Standardisasi Instrumen Pertanian</td>
 										</tr>
 									</a>
 									<a href="">
 										<tr class="headerHover">
 											<td class="glyphicon glyphicon-ok">&nbsp</td>
-											<td style="padding-top: 3px;">Pustaka Balitbangtan</td>
+											<td style="padding-top: 3px;">Pustaka BSIP</td>
 										</tr>
 									</a>
 									<a href="">
@@ -411,7 +407,7 @@
 			</div>
 			<div class="container-fluid text-center" style="color:white;background-color: black;">
 				<div style=" margin-top: 10px;">
-					<p style="font-family: calibri"><span class="glyphicon glyphicon-copyright-mark"></span> 2018 All Reserved Design By BALITTAS</p>
+					<p style="font-family: calibri"><span class="glyphicon glyphicon-copyright-mark"></span> 2023 All Reserved Design By BSIP-TAS</p>
 				</div>
 			</div>
 	</footer>

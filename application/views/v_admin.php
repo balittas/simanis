@@ -11,7 +11,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Balittas</title>
+    <title>BSIP-TAS</title>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto|Varela+Round">
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
     <link rel="stylesheet" href="<?php echo base_url();?>/assets/font-awesome-4.7.0/css/font-awesome.min.css">
@@ -2041,7 +2041,7 @@
     <footer style="margin-top: 0px;">
       <div class="container-fluid text-center" style="color:white;background-color: black;">
         <div style=" margin-top: 10px;">
-          <p style="font-family: calibri"><span class="glyphicon glyphicon-copyright-mark"></span> 2018 All Reserved Design By BALITTAS</p>
+          <p style="font-family: calibri"><span class="glyphicon glyphicon-copyright-mark"></span> 2023 All Reserved Design By BSIP-TAS</p>
         </div>
       </div>
     </footer>
